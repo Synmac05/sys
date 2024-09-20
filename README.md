@@ -8,6 +8,9 @@ now it is rayson trying back to last version
 now testing restoring
 # homework part
 ## zrc
-zrc: editing
-zrc: new sentence
-zrc: over
+zrc: editing 
+
+zrc: new sentence 
+
+zrc: over 
+
