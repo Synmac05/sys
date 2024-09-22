@@ -48,3 +48,10 @@ qcy: 1
 qcy: 9
 
 qcy: 8
+
+## lwz
+lwz: ???
+
+lwz: ???
+
+lwz: !!!
